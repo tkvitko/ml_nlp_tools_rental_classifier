@@ -1,1 +1,11 @@
+training/hf_token.txt
 training/deepseek_api_key.txt
+training/.ipynb_checkpoints/
+training/results/
+dataset/
+!dataset/lables.cvs
+.idea/
+.ipynb_checkpoints/
+.venv2/
+config/
+models/
